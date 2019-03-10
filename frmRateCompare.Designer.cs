@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication1
+﻿namespace RateCompareApp
 {
     partial class frmRateCompare
     {
@@ -259,7 +259,7 @@
             // 
             // financeRateBindingSource
             // 
-            this.financeRateBindingSource.DataSource = typeof(WindowsFormsApplication1.FinanceRate);
+            this.financeRateBindingSource.DataSource = typeof(RateCompareApp.FinanceRate);
             // 
             // Form1
             // 

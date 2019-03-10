@@ -7,7 +7,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsFormsApplication1
+namespace RateCompareApp
 {
     /*
         Applying singleton pattern as only one instant of this is required for application

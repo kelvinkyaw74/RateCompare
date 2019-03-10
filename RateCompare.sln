@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateCompareApp", "RateCompareApp.csproj", "{A700D65B-8F97-4F5D-9FAE-DC7B5B94C3F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateCompareTest", "..\WindowsFormsApplication1Tests\RateCompareTest.csproj", "{69FEB152-2CC6-483D-BD3C-D4381079F494}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateCompareTest", "..\RateComapreTests\RateCompareTest.csproj", "{69FEB152-2CC6-483D-BD3C-D4381079F494}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -59,7 +59,7 @@
     <Compile Include="WebClientHelperTests.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WindowsFormsApplication1\RateCompareApp.csproj">
+    <ProjectReference Include="..\RateCompareApp\RateCompareApp.csproj">
       <Project>{A700D65B-8F97-4F5D-9FAE-DC7B5B94C3F1}</Project>
       <Name>RateCompareApp</Name>
     </ProjectReference>
