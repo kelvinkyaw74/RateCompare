@@ -22,7 +22,6 @@ namespace RateCompareApp
         public Result result { get; set; }
     }
 
-
     [Serializable]
     public class FinanceRate
     {
@@ -138,6 +137,8 @@ namespace RateCompareApp
 
         private string GetPeriod(string strMonth)
         {
+            if (strMonth == null) return string.Empty;
+
             string[] strDuration = strMonth.Split('-');
             if (strDuration.Length > 1)
             {
